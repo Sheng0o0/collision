@@ -1,0 +1,17 @@
+#p1{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:200px;
+    height:100px;
+}
+#p2{
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    width:200px;
+    height:100px;
+}
+body{
+    background-image: url(http://www.geocities.ws/givemeyourbestshot/Guilty%20Crown%204.jpg)
+}
